@@ -2,6 +2,7 @@
 En este repositorio se guardarán los documentos relativos al curso de Electromagnetismo del tercer semestre de la Licenciatura en Física y Tecnología Avanzada.
 
 ## Tópicos
+### Primer parcial
 1. [Introducción al curso.](https://github.com/losvaldote/Electromagnetismo/blob/main/Introduccio%CC%81n_al_curso.pdf)
 2. [Clase 1: Análisis vectorial.](https://github.com/losvaldote/Electromagnetismo/blob/main/Clase_1.pdf)
 3. [Clase 2: Ley de Coulomb.](https://github.com/losvaldote/Electromagnetismo/blob/main/Clase_2.pdf)
@@ -15,3 +16,5 @@ En este repositorio se guardarán los documentos relativos al curso de Electroma
 11. [Clase 10: Potencial eléctrico 1.](https://github.com/losvaldote/Electromagnetismo/blob/main/Potencial_electrico.pdf)
 12. [Clase 11: Potencial eléctrico 2.](https://github.com/losvaldote/Electromagnetismo/blob/main/Potencial_electrico_2.pdf)
 13. [Clase 12: Potencial eléctrico 3.](https://github.com/losvaldote/Electromagnetismo/blob/main/Potencial_electrica_3.pdf)
+
+### Segundo parcial
