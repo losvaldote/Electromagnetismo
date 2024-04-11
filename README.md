@@ -19,3 +19,4 @@ En este repositorio se guardarán los documentos relativos al curso de Electroma
 
 ### Segundo parcial
 1. [Corriente eléctrica.](https://github.com/losvaldote/Electromagnetismo/blob/main/Corriente_electrica.pdf)
+2. [Resistencia.](https://github.com/losvaldote/Electromagnetismo/blob/main/Resistencia.pdf)
