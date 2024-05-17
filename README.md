@@ -22,3 +22,12 @@ En este repositorio se guardarán los documentos relativos al curso de Electroma
 2. [Resistencia.](https://github.com/losvaldote/Electromagnetismo/blob/main/Resistencia.pdf)
 
 ### Tercer parcial.
+1. [Campo magnético.](https://github.com/losvaldote/Electromagnetismo/blob/main/Campo_magne%CC%81tico.pdf)
+2. [Movimiento de una partícula con carga uniforme inmersa en un campo magnético.](https://github.com/losvaldote/Electromagnetismo/blob/main/Parti%CC%81cula_en_campo_magnetico.pdf)
+3. [Aplicaciones.](https://github.com/losvaldote/Electromagnetismo/blob/main/Aplicaciones.pdf)
+4. [Fuerza magnética sobre un conductor](https://github.com/losvaldote/Electromagnetismo/blob/main/Fuerza_magnetica_sobre_un_conductor.pdf)
+5. [Momento de torsión sobre una espira de corriente en un campo magnético uniforme.](https://github.com/losvaldote/Electromagnetismo/blob/main/Momento_torsion_sobre_una_espira.pdf)
+6. [Ley de Biot-Savart.](https://github.com/losvaldote/Electromagnetismo/blob/main/Biot_Savart.pdf)
+7. [Fuerza magnética entre dos conductores paralelos.](https://github.com/losvaldote/Electromagnetismo/blob/main/Fuerza_magnetica_entre_conductores_paralelos.pdf)
+8. [Suspensión de un alambre.](https://github.com/losvaldote/Electromagnetismo/blob/main/Suspensio%CC%81n_de_un_alambre.pdf)
+9. [Ley de Ampère.](https://github.com/losvaldote/Electromagnetismo/blob/main/Ley_de_Ampere.pdf)
