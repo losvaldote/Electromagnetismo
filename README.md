@@ -31,3 +31,4 @@ En este repositorio se guardarán los documentos relativos al curso de Electroma
 7. [Fuerza magnética entre dos conductores paralelos.](https://github.com/losvaldote/Electromagnetismo/blob/main/Fuerza_magnetica_entre_conductores_paralelos.pdf)
 8. [Suspensión de un alambre.](https://github.com/losvaldote/Electromagnetismo/blob/main/Suspensio%CC%81n_de_un_alambre.pdf)
 9. [Ley de Ampère.](https://github.com/losvaldote/Electromagnetismo/blob/main/Ley_de_Ampere.pdf)
+10. [Solución Tarea 9: Estudien bien.](https://github.com/losvaldote/Electromagnetismo/blob/main/Sol_Tarea_9.pdf)
